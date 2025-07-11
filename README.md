@@ -1,4 +1,4 @@
-# A java full stack project made for completion of CDE full stack internship in cognizant. 
+
 
 #Requirements:
 Java 8
