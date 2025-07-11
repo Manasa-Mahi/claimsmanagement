@@ -1,0 +1,39 @@
+h2 {
+  text-align: center;
+  margin: 10px 0.5px 40px 1.0px;
+}
+.back
+{
+  background-image: linear-gradient(to bottom right, #99ec9b, #b4d6b6,#6e2088);
+}
+.container {
+  border: 2px solid rgb(188, 161, 161);
+  margin-top: 50px;
+  padding: 30px 80px;
+  border-radius: 20px;
+}
+
+.row {
+  height: 16vh;
+}
+.row__content {
+  margin-bottom: 30px;
+  width: 20%;
+}
+
+input.ng-invalid.ng-touched {
+  border: 2px solid red;
+}
+
+.spinner {
+  text-align: center;
+}
+
+.btn {
+  padding: 12px 30px;
+  border-radius: 105px;
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+}
